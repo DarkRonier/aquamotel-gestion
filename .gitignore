@@ -1,15 +1,2 @@
-# Backend
-backend/node_modules/
-backend/dist/
-backend/.env
-backend/*.db
-backend/*.db-journal
-
-# Frontend
-frontend/node_modules/
-frontend/dist/
-frontend/.env.local
-
-# General
 .DS_Store
 .vscode/
